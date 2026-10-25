@@ -34,8 +34,6 @@ AI 환경에서도 데이터 수집·처리, 모델 실행, 서비스 연결과 
 | 소프트웨어공학·웹·모바일 | AI 기능의 응용 통합과 변경 관리 | 요구사항·설계·구현의 일관성 |
 | 정보보안·프로젝트 교과 | 데이터 접근, 취약점과 실행 중 오류 | 구성요소의 결합에 따른 품질·위험의 변화 |
 
-※ 기존 교육 기반은 대학요람에 근거하며, 연결 관계는 본 보고서의 분석임.[1][2]
-
 ### ④ 구현·실험·검증의 상호보완성
 
 컴퓨터학에서는 추상적인 원리와 실제 구현을 통해 관찰되는 동작이 상호보완적인 관계를 가짐. 프로그램이 실행된다는 사실과 요구사항을 만족한다는 판단은 구분되며, 정확성·효율성·안정성은 입력 조건과 실행환경에 따라 검토되는 속성임. 알고리즘의 이론적 분석과 구현의 실험적 측정은 서로 다른 근거를 제공하므로, 설계의 타당성을 이해하려면 두 관점의 관계를 파악할 필요가 있음.
@@ -183,8 +181,6 @@ AI 서비스는 데이터·모델·외부 도구·사용자 인터페이스가 �
 | 보안·신뢰성·운영 | 접근 권한·오류·변경 영향·재현성 | 정보보안, 시스템, 소프트웨어 검증 |
 | 분야·사용자 중심 통합 | 전문 분야의 의미와 시스템 결과의 관계 | 시스템 통합, HCI, 데이터·정보시스템 |
 
-※ [4]~[12]의 연구를 바탕으로 학문적 관계를 정리한 것으로, 개별 연구 방법을 본 전공의 필수 교육내용으로 정한 것은 아님.
-
 ## 라. 전공과 유사한 타대학 전공의 교육과정 구성이나 변화
 
 ### ① 비교 대상과 자료 해석의 기준
@@ -225,14 +221,12 @@ AI 서비스는 데이터·모델·외부 도구·사용자 인터페이스가 �
 
 **<표 3-4> 주요 비교 대상의 교육구조와 본 전공에 대한 시사점**
 
-| 비교 대상과 자료 기준 | 확인되는 교육구조 | 비교 분석의 시사점 |
+| 비교 대상 | 확인되는 교육구조 | 비교 분석의 시사점 |
 |---|---|---|
-| 서울여대 소프트웨어학과 / 2026 교과과정 | CS 기반, AI·클라우드 교과, 필수 종합설계 | 기초·심화와 종합적 적용 경험의 연결 |
-| 서울여대 지능정보보호학부 / 2026 가이드 | 사이버보안·개인정보보호의 구분, AI 연계 교과 | 기존 전문분야와 AI·데이터 문제의 결합 |
-| 광운대 컴퓨터정보공학부 / 2023 교과표·2026 조직 안내 | 하드웨어·시스템 기반, GPU·AI·임베디드, 캡스톤 | 시스템 기반과 지능형·공학 응용의 관계 |
-| 국민대 소프트웨어학부 / 2026 교과과정·2025학번 이후 인증 | 공통 기반과 다섯 트랙, 프로젝트, 개인 코딩 역량 확인 | 분야별 심화·종합 경험·개인 역량의 관계 |
-
-※ 적용 연도가 다른 공개 자료의 비교임. 교과표에 명시되지 않은 내용의 교육 여부나 실제 교육성과는 별도 확인이 필요함.
+| 서울여대 소프트웨어학과 | CS 기반, AI·클라우드 교과, 필수 종합설계 | 기초·심화와 종합적 적용 경험의 연결 |
+| 서울여대 지능정보보호학부 | 사이버보안·개인정보보호의 구분, AI 연계 교과 | 기존 전문분야와 AI·데이터 문제의 결합 |
+| 광운대 컴퓨터정보공학부 | 하드웨어·시스템 기반, GPU·AI·임베디드, 캡스톤 | 시스템 기반과 지능형·공학 응용의 관계 |
+| 국민대 소프트웨어학부 | 공통 기반과 다섯 트랙, 프로젝트, 개인 코딩 역량 확인 | 분야별 심화·종합 경험·개인 역량의 관계 |
 
 ### ⑥ 비교 결과의 종합적 시사점
 
@@ -244,19 +238,19 @@ AI 서비스는 데이터·모델·외부 도구·사용자 인터페이스가 �
 
 ## 참고문헌 및 확인 자료
 
-2. ACM·IEEE-CS·AAAI, *Computer Science Curricula 2023*, 2024 승인. [Introduction to Knowledge Model](https://csed.acm.org/wp-content/uploads/2024/04/1.3-Introduction-to-Knowledge-Model.pdf), 1~4쪽.
-3. ACM·IEEE-CS·AAAI, *Computer Science Curricula 2023*, [Generative AI and the Curriculum](https://csed.acm.org/wp-content/uploads/2024/04/4.3-Generative-AI-and-the-Curriculum.pdf).
-14. 서울여자대학교, [2026학년도 지능정보보호학부 전공가이드](https://www.swu.ac.kr/sites/swu/files/col-future/major_guidebook/04b.pdf), PDF 2~3, 8~9쪽 중심.
-15. 서울여자대학교, [대학 연혁: 2010년대](https://www.swu.ac.kr/swu/1705/subview.do), 2016년 학과 통합 및 명칭 변경 항목.
-16. 서울여자대학교, [2026학년도 디지털미디어학과 교과과정](https://www.swu.ac.kr/sites/swu/files/col-future/03/2026_futurec.pdf). 구 컴퓨터학과의 개편 후 교육 분야를 보완 확인함.
-17. 서울여자대학교, [대학 연혁: 2020년대](https://www.swu.ac.kr/swu/1704/subview.do), 2024년 학부 개편 항목.
-18. 광운대학교 컴퓨터정보공학부, [일반프로그램 교과과정](https://ce.kw.ac.kr/program/process.php), 페이지에 **2023학년도** 명시.
-19. 광운대학교 컴퓨터정보공학부, [연혁](https://ce.kw.ac.kr/department_guide/history.php), 2017년 명칭 변경 항목.
-20. 광운대학교 컴퓨터정보공학부, [2026학년도 학부제 입학생 세부전공 설명회 및 세부전공 선택 안내](https://ce.kw.ac.kr/department_office/lecture.php?admin_mode=read&no=3452), 2026.10.13.
-21. 국민대학교 소프트웨어융합대학, [소프트웨어학부 2026 교과과정](https://cs.kookmin.ac.kr/major/curriculum2026), [원본 교육과정표](https://cs.kookmin.ac.kr/images/major/curriculum_2026.png).
-22. 국민대학교 소프트웨어융합대학, [학부(과) 졸업 인증 요건 변경 안내](https://cs.kookmin.ac.kr/news/notice/2663), 2025.06.16. **2025학번 이후 입학생** 적용.
-23. 국민대학교 소프트웨어융합대학, [공식 동문 홈페이지 연혁](https://alumni.cs.kookmin.ac.kr/), 컴퓨터공학 계열과 2017년 소프트웨어학부 출범 관계.
-24. ACM·AIS, *IS2020: A Competency Model for Undergraduate Programs in Information Systems*, December 2020. [공식 보고서](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/is2020.pdf), [저자 소속 대학의 서지·초록](https://scholarworks.gvsu.edu/cispeerpubs/9/). 조직의 요구와 컴퓨팅 역량을 연결하는 정보시스템 교육의 근거로 사용함.
+1. ACM·IEEE-CS·AAAI, *Computer Science Curricula 2023*, 2024 승인. [Introduction to Knowledge Model](https://csed.acm.org/wp-content/uploads/2024/04/1.3-Introduction-to-Knowledge-Model.pdf), 1~4쪽.
+2. ACM·IEEE-CS·AAAI, *Computer Science Curricula 2023*, [Generative AI and the Curriculum](https://csed.acm.org/wp-content/uploads/2024/04/4.3-Generative-AI-and-the-Curriculum.pdf).
+3. 서울여자대학교, [2026학년도 지능정보보호학부 전공가이드](https://www.swu.ac.kr/sites/swu/files/col-future/major_guidebook/04b.pdf), PDF 2~3, 8~9쪽 중심.
+4. 서울여자대학교, [대학 연혁: 2010년대](https://www.swu.ac.kr/swu/1705/subview.do), 2016년 학과 통합 및 명칭 변경 항목.
+5. 서울여자대학교, [2026학년도 디지털미디어학과 교과과정](https://www.swu.ac.kr/sites/swu/files/col-future/03/2026_futurec.pdf). 구 컴퓨터학과의 개편 후 교육 분야를 보완 확인함.
+6. 서울여자대학교, [대학 연혁: 2020년대](https://www.swu.ac.kr/swu/1704/subview.do), 2024년 학부 개편 항목.
+7. 광운대학교 컴퓨터정보공학부, [일반프로그램 교과과정](https://ce.kw.ac.kr/program/process.php), 페이지에 **2023학년도** 명시.
+8. 광운대학교 컴퓨터정보공학부, [연혁](https://ce.kw.ac.kr/department_guide/history.php), 2017년 명칭 변경 항목.
+9. 광운대학교 컴퓨터정보공학부, [2026학년도 학부제 입학생 세부전공 설명회 및 세부전공 선택 안내](https://ce.kw.ac.kr/department_office/lecture.php?admin_mode=read&no=3452), 2026.10.13.
+10. 국민대학교 소프트웨어융합대학, [소프트웨어학부 2026 교과과정](https://cs.kookmin.ac.kr/major/curriculum2026), [원본 교육과정표](https://cs.kookmin.ac.kr/images/major/curriculum_2026.png).
+11. 국민대학교 소프트웨어융합대학, [학부(과) 졸업 인증 요건 변경 안내](https://cs.kookmin.ac.kr/news/notice/2663), 2025.06.16. **2025학번 이후 입학생** 적용.
+12. 국민대학교 소프트웨어융합대학, [공식 동문 홈페이지 연혁](https://alumni.cs.kookmin.ac.kr/), 컴퓨터공학 계열과 2017년 소프트웨어학부 출범 관계.
+13. ACM·AIS, *IS2020: A Competency Model for Undergraduate Programs in Information Systems*, December 2020. [공식 보고서](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/is2020.pdf), [저자 소속 대학의 서지·초록](https://scholarworks.gvsu.edu/cispeerpubs/9/). 조직의 요구와 컴퓨팅 역량을 연결하는 정보시스템 교육의 근거로 사용함.
 
 ### 기존 PPTX 그림의 활용
 
