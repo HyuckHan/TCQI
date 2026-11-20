@@ -8,7 +8,7 @@
 
 ## III. 전공 요구분석
 
-5. 재학생 수요조사 ([학생 설문 조사 문항 초안)](docs/student_survey.md))
+5. 재학생 수요조사 ([학생 설문 조사 문항 초안)](https://docs.google.com/forms/d/1LejNt86rLs-9YX7Q20mra47wCgeIZIg5PCpggh-oQAk/))
 6. 산업체 수요조사
 
 ## IV. 전공 목표수립
